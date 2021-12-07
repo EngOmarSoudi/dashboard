@@ -1,0 +1,9 @@
+<svg id="Component_19_3" data-name="Component 19 – 3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+ 
+  <rect id="Rectangle_906" data-name="Rectangle 906" width="20" height="20" rx="5" fill="#c9c5d2" opacity="0"/>
+  <g id="Mask_Group_193" data-name="Mask Group 193" transform="translate(-13804 -7122.327)" clip-path="url(#clip-path)">
+    <g id="surface1" transform="translate(13803.134 7121.458)">
+      <path id="Path_2307" data-name="Path 2307" d="M10.859.869,8.1,3.62a.442.442,0,1,0,.625.625l1.711-1.7V6.52H1.3V8.258H20.428V6.52H11.3V2.54l1.711,1.7a.442.442,0,1,0,.625-.625L10.873.869l-.007.007ZM1.3,10v1.739H20.428V10Zm0,3.477v1.739h9.124a.013.013,0,0,1,0,.007V19.2l-1.711-1.7a.442.442,0,0,0-.625.625l2.764,2.75.007-.007.007.007,2.764-2.75a.442.442,0,0,0-.625-.625L11.3,19.2v-3.98a.013.013,0,0,1,0-.007h9.124V13.474Z" fill="#958da7"/>
+    </g>
+  </g>
+</svg>

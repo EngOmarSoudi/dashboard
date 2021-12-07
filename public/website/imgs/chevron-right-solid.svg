@@ -1,0 +1,7 @@
+<svg id="Component_1_28" data-name="Component 1 – 28" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <path id="icons8_play" d="M8,6.387v5.865a.567.567,0,0,0,.87.478L13.479,9.8a.566.566,0,0,0,0-.955L8.87,5.909A.566.566,0,0,0,8,6.387Z" transform="translate(2 3.18)" fill="#9e9e9e"/>
+  <g id="Ellipse_1" data-name="Ellipse 1" fill="none" stroke="#9e9e9e" stroke-width="1">
+    <circle cx="12.5" cy="12.5" r="12.5" stroke="none"/>
+    <circle cx="12.5" cy="12.5" r="12" fill="none"/>
+  </g>
+</svg>

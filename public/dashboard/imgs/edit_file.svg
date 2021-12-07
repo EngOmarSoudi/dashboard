@@ -1,0 +1,13 @@
+<svg id="Edit_sm_" data-name="Edit (sm)" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_653" data-name="Rectangle 653" width="20" height="20" fill="#958da7" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle_647" data-name="Rectangle 647" width="9" height="9" rx="4.5" transform="translate(5.238 5.238)" fill="#a5e3c6" opacity="0"/>
+  <g id="Mask_Group_72" data-name="Mask Group 72" clip-path="url(#clip-path)">
+    <g id="surface1" transform="translate(0 0)">
+      <path id="Path_195" data-name="Path 195" d="M20.684,1.924a2.116,2.116,0,0,0-2.993,0s-.031.029-.07.07L17.61,2,2.3,17.306a.45.45,0,0,0-.112.2L1.32,20.757a.434.434,0,0,0,.419.547.423.423,0,0,0,.112-.015l3.256-.873a.437.437,0,0,0,.2-.114L20.606,5a.087.087,0,0,0,.01-.017l.066-.066A2.113,2.113,0,0,0,20.684,1.924Zm-.615.615a1.249,1.249,0,0,1,0,1.763c-.144.143-.267.267-.372.372L17.935,2.911l.372-.372a1.246,1.246,0,0,1,1.763,0ZM2.872,18.327l1.41,1.41-1.928.518Z" transform="translate(-1.304 -1.304)" fill="#958da7"/>
+    </g>
+  </g>
+</svg>

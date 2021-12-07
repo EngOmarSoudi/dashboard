@@ -1,0 +1,11 @@
+<svg id="Component_13_13" data-name="Component 13 – 13" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20.207" viewBox="0 0 20 20.207">
+
+  <g id="Mask_Group_73" data-name="Mask Group 73" clip-path="url(#clip-path)">
+    <g id="surface1" transform="translate(0 3.333)">
+      <path id="Path_196" data-name="Path 196" d="M10,5C4.055,5,.214,11.141.146,11.253A.663.663,0,0,0,0,11.667a.651.651,0,0,0,.109.365v0c.013.023,3.237,6.3,9.891,6.3,6.625,0,9.844-6.214,9.885-6.292l.008-.01a.673.673,0,0,0-.036-.779h0C19.786,11.141,15.945,5,10,5Zm0,2a4.667,4.667,0,1,1-4.667,4.667A4.666,4.666,0,0,1,10,7Zm0,2.667a2,2,0,1,0,2,2A2,2,0,0,0,10,9.667Z" transform="translate(0 -5)" fill="#c9c5d2"/>
+    </g>
+  </g>
+  <line id="Line_5" data-name="Line 5" x2="16" y2="16" transform="translate(2.5 3.5)" fill="none" stroke="#fff" stroke-width="2"/>
+  <line id="Line_4" data-name="Line 4" x2="16" y2="16" transform="translate(2.5 1.5)" fill="none" stroke="#c9c5d2" stroke-linecap="round" stroke-width="2"/>
+  <line id="Line_6" data-name="Line 6" x2="6" y2="6" transform="translate(6.125 7.875)" fill="none" stroke="#fff" stroke-width="2"/>
+</svg>

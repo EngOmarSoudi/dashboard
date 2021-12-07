@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="367" viewBox="0 0 250 367">
+  <g id="Group_281" data-name="Group 281" transform="translate(693 -6338)">
+    <g id="Group_259" data-name="Group 259" transform="translate(-689.544 5856.582)">
+      <path id="Path_154" data-name="Path 154" d="M216.027,545,89.984,651.389l-32.322-43.53L90.473,654.8l105.575-89.172L117.6,694.43,24.365,637.583l84.46-139.037,76.99,46.779,13.806-10.559-84.937-51.42A13.322,13.322,0,0,0,96.4,487.828L9.647,630.7a14.463,14.463,0,0,0,4.9,19.9l98.6,59.4a12.067,12.067,0,0,0,16.534-4.068l88.939-146.31C221.712,552.146,216.027,545,216.027,545ZM70.263,675.507a4.047,4.047,0,1,1-.107-5.236A4.049,4.049,0,0,1,70.263,675.507Z" fill="#fff"/>
+      <path id="Path_155" data-name="Path 155" d="M36.016,571.34,52.259,572.8l16.4,23.714,114.023-81.7L67.527,618.281Z" transform="translate(22.133 25.961)" fill="#fff"/>
+    </g>
+    <text id="Logo" transform="translate(-693 6653)" fill="#fff" font-size="40" font-family="SegoeUI-Regular, Segoe UI"><tspan letter-spacing="0.376em"><tspan x="0" y="0">TEMMAM</tspan></tspan><tspan font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="42">DASHBOARD</tspan></tspan></text>
+  </g>
+</svg>
